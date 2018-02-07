@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "techtalk-6783b"
+    "default": "techtalk-6783b",
+    "techtalk": "techtalk-6783b"
   }
 }
